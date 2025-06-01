@@ -360,7 +360,7 @@ while running:
         elif weather == 'Rainy':
             waiting_time_scale = 0.5
         next_fire_time = current_time + random.randint(4000,8000)/waiting_time_scale  # Change to random.randint(4000, 8000) for normal gameplay
-        print(f"Next fire time set to {next_fire_time}")
+        print("New fire located in the area, look out!")
     
     # Draw layers in correct order
     screen.fill((0, 0, 0))  # Clear screen
