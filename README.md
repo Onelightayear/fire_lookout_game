@@ -14,10 +14,10 @@ Download the *minimal_version.py* and the assets folder. To start the game, simp
 - To activate Osborne Fire-Finder, press "O"
 - To report the fire, aim on it with the crosshairs and press "Space" (fire reports are currently in the terminal)
 
-There are four weather conditions that are generated randomly: clear, hot, windy and rainy. Each weather affects the fire spawn rate.
+There are four weather conditions that are generated randomly: clear, hot, windy and rainy. Each weather affects the fire spawn rate and lifetime.
 
 ## Features to come
 
 - Report weather: use the anemometer, weather vane and barometer to measure the weather conditions!
-- Draw the fires on the map
+- Locate fires on the map!
 - Communicate with other towers
